@@ -105,3 +105,17 @@ footer {
      width:"15%";
 
 }
+
+#colour-width{
+    width:"80%";
+}
+
+#align{
+    width:"20%";
+    text-align: left;
+}
+
+#comments{
+    width:622px;
+    align:center
+}
